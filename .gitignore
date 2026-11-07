@@ -1,0 +1,21 @@
+# Python / editors
+.venv*/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Videos are too large for GitHub (limit 100 MB per file)
+*.mp4
+*.avi
+*.mov
+
+# Generated result images (the notebooks contain them as outputs)
+results/*.png
+!results/task03_final_mask.png
+
+# Not part of the code
+data/task08_group.jpg
+00_report_sources_files/
+_claude_tmp/
+*.docx
+*.pdf

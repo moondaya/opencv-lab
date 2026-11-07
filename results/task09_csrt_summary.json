@@ -1,0 +1,9 @@
+{
+  "tracker": "CSRT",
+  "start_frame": 141,
+  "frames": 552,
+  "success_pct": 98.9,
+  "first_failure_frame": 659,
+  "mean_update_ms": 75.93,
+  "fps": 13.2
+}

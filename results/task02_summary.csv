@@ -1,0 +1,6 @@
+method,threshold,white_pct,left_pct,right_pct,imbalance_LR,specks_lt50px,fragments_ge50px,time_ms
+1 Global,127,38.1,0.9,81.2,80.3,5058,45,0.02
+2 Adaptive mean,"local (block 51, C 10)",81.9,87.4,82.1,5.3,8853,426,1.13
+3 Adaptive Gaussian,"local (block 51, C 10)",84.1,89.0,83.4,5.5,9530,428,9.41
+4 Otsu,115 (auto),45.8,2.7,88.5,85.8,4444,23,0.76
+5 Blur + Otsu,"115 (auto, blur 5x5)",45.9,1.2,89.5,88.3,605,20,1.04

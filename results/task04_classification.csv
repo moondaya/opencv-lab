@@ -1,0 +1,10 @@
+id,object,vertices,circularity,rot_aspect,rectangularity,solidity,class,expected,correct
+1,marker,5,0.24,8.27,0.8,0.84,rectangle,rectangle,True
+2,ball,8,0.89,1.08,0.81,0.98,circle,circle,True
+3,tape roll,8,0.87,1.05,0.79,0.99,circle,circle,True
+4,clay figure,14,0.41,2.3,0.62,0.8,undefined,undefined,True
+5,small box,4,0.68,1.62,0.88,0.94,rectangle,square,False
+6,triangle,3,0.58,1.11,0.55,0.96,triangle,triangle,True
+7,badge,14,0.31,1.72,0.6,0.71,undefined,polygon,False
+8,booklet,9,0.37,1.12,0.52,0.72,undefined,square,False
+9,sharpener,8,0.72,1.56,0.79,0.94,ellipse,ellipse,True

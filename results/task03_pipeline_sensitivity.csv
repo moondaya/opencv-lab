@@ -1,0 +1,10 @@
+opening_kernel,closing_kernel,objects,equals_ground_truth
+3x3,5x5,10,False
+3x3,9x9,8,False
+3x3,15x15,8,False
+5x5,5x5,9,True
+5x5,9x9,9,True
+5x5,15x15,8,False
+7x7,5x5,10,False
+7x7,9x9,9,True
+7x7,15x15,9,True

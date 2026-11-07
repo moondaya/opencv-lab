@@ -1,0 +1,5 @@
+kernel,sigma,time_ms,psnr_db,sharpness,sharpness_pct
+none (resized),-,-,inf,553.0,100.0
+3x3,0.80,3.05,34.39,62.6,11.3
+7x7,1.40,3.15,30.33,9.6,1.7
+15x15,2.60,2.10,27.91,2.5,0.5

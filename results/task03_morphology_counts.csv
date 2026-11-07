@@ -1,0 +1,16 @@
+operation,kernel,objects_ge_min_area,all_regions,white_pct
+Erosion,3x3,10,63,4.5
+Erosion,5x5,9,30,3.6
+Erosion,9x9,8,17,2.2
+Dilation,3x3,13,31,7.0
+Dilation,5x5,10,19,8.1
+Dilation,9x9,10,13,10.0
+Opening,3x3,10,51,5.6
+Opening,5x5,10,25,5.2
+Opening,9x9,10,13,4.4
+Closing,3x3,11,35,5.8
+Closing,5x5,10,23,6.1
+Closing,9x9,9,14,6.5
+Gradient,3x3,13,54,2.5
+Gradient,5x5,12,31,4.5
+Gradient,9x9,10,15,7.8

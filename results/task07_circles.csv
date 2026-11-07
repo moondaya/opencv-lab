@@ -1,0 +1,13 @@
+id,x,y,r,label,object
+1,624.6,366.6,94.8,true,wood_lid
+2,209.4,235.8,43.8,true,blue_cap
+3,455.4,105.0,49.1,true,green_cap
+4,285.0,498.6,40.8,true,black_ring
+5,652.2,805.8,41.6,true,bimetal_coin
+6,215.4,780.6,35.3,true,small_coin
+7,401.4,635.4,43.1,true,teal_blob
+8,612.6,1031.4,54.8,FALSE,-
+9,564.6,1025.4,43.6,FALSE,-
+10,701.4,1024.2,48.5,FALSE,-
+11,661.8,1031.4,17.3,FALSE,-
+12,587.4,990.6,43.9,FALSE,-

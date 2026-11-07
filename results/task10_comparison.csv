@@ -1,0 +1,5 @@
+method,fps,exact_vs_moving_pct,mae_vs_moving,exact_vs_visible_pct,mae_vs_visible,overcount_pct,undercount_pct
+a1,84.9,23.5,1.88,23.5,1.18,76.5,0.0
+a2,97.4,64.7,0.47,17.6,1.29,0.0,35.3
+mog2_500,40.0,41.2,1.24,52.9,1.24,52.9,5.9
+mog2_100,37.8,58.8,0.65,41.2,0.88,23.5,17.6

@@ -1,0 +1,4 @@
+tracker,fps,mean_ms,ok_while_visible_pct,lost_while_visible,false_ok_after_exit,box_w,box_h,dist_to_csrt_mean,dist_to_csrt_max
+CSRT,13.2,75.9,100.0,0,29/35,142-199,233-326,,
+KCF,49.9,20.1,100.0,0,0/35,33-148,242-242,13.6,34.0
+MIL,10.6,94.6,100.0,0,35/35,148-148,242-242,8.4,74.1

@@ -1,0 +1,17 @@
+{
+  "H": [
+    80,
+    95
+  ],
+  "S": [
+    100,
+    255
+  ],
+  "V": [
+    40,
+    255
+  ],
+  "inverted": false,
+  "regions": 1,
+  "info": "regions >= 300px: 1 | largest: contour area 2090 px2, mask pixels 2272, box 170x25 at (277,121)"
+}

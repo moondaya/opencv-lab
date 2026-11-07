@@ -1,0 +1,9 @@
+{
+  "method": "a2",
+  "frames": 992,
+  "mean_ms": 10.26,
+  "fps": 97.4,
+  "max_count": 5,
+  "mean_count": 0.28,
+  "frames_with_motion_pct": 16.2
+}

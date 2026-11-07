@@ -1,0 +1,4 @@
+version,max_count,mean_count,detects_motion,false_alarm_when_still,correct_count_when_moving,mae_vs_moving
+Task 10 rule (area only),14,0.75,4/7,2/10,2/7,0.65
++ shape filter,8,0.56,2/7,2/10,0/7,0.65
++ tracking (Task 11),3,0.41,2/7,2/10,1/7,0.59

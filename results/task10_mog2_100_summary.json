@@ -1,0 +1,9 @@
+{
+  "method": "mog2_100",
+  "frames": 992,
+  "mean_ms": 26.47,
+  "fps": 37.8,
+  "max_count": 14,
+  "mean_count": 0.75,
+  "frames_with_motion_pct": 44.6
+}

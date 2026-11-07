@@ -1,0 +1,9 @@
+{
+  "tracker": "MIL",
+  "start_frame": 141,
+  "frames": 552,
+  "success_pct": 100.0,
+  "first_failure_frame": null,
+  "mean_update_ms": 94.64,
+  "fps": 10.6
+}

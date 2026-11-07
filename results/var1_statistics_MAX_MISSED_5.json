@@ -1,0 +1,38 @@
+{
+  "video": "var1_cars.mp4",
+  "frames": 1188,
+  "duration_s": 39.6,
+  "ids_total": 26,
+  "counted_total": 15,
+  "counted_per_direction": {
+    "L->R": 12,
+    "R->L": 3
+  },
+  "start_s": 28.0,
+  "max_cars_in_frame": 3,
+  "mean_cars_in_frame": 1.05,
+  "rejected": {
+    "small": 8980,
+    "large": 0,
+    "aspect": 22,
+    "solidity": 48
+  },
+  "mean_detect_ms": 13.59,
+  "mean_frame_ms": 26.44,
+  "system_fps": 28.9,
+  "window": false,
+  "params": {
+    "HISTORY": 300,
+    "VAR_THR": 25,
+    "MIN_AREA": 600,
+    "MAX_AREA": 40000,
+    "ASPECT": [
+      0.8,
+      5.0
+    ],
+    "MIN_SOLIDITY": 0.5,
+    "MAX_DIST": 80,
+    "MIN_HITS": 5,
+    "MAX_MISSED": 5
+  }
+}

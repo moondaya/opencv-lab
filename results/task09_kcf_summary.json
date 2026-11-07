@@ -1,0 +1,9 @@
+{
+  "tracker": "KCF",
+  "start_frame": 141,
+  "frames": 552,
+  "success_pct": 93.7,
+  "first_failure_frame": 659,
+  "mean_update_ms": 20.05,
+  "fps": 49.9
+}
